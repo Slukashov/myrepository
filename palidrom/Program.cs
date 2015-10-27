@@ -8,7 +8,7 @@ namespace palidrom
     class Program
     {
         public static bool Palyndrom(int _number)
-        {
+        {kdsjfhskjdfhksdjfhjksdhfjkj
             int next = 0;
             int pal = _number;
             while (pal != 0)
