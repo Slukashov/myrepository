@@ -1,0 +1,5 @@
+c:\users\slukashov\documents\visual studio 2010\Projects\palidrom\palidrom\bin\Debug\palidrom.exe
+c:\users\slukashov\documents\visual studio 2010\Projects\palidrom\palidrom\bin\Debug\palidrom.pdb
+c:\users\slukashov\documents\visual studio 2010\Projects\palidrom\palidrom\obj\x86\Debug\palidrom.exe
+c:\users\slukashov\documents\visual studio 2010\Projects\palidrom\palidrom\obj\x86\Debug\palidrom.pdb
+C:\Users\SLukashov\documents\visual studio 2010\Projects\palidrom\palidrom\obj\x86\Debug\palidrom.csprojResolveAssemblyReference.cache
